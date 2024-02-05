@@ -1,3 +1,3 @@
-## Immo Scanner, The Real-estate repricer tool
+## Org 404 project index
 
-👩‍💻 [Wiki](https://github.com/esgi-immo-scanner/.github/wiki)
+👩‍💻 [Immo Scanner, The Real-estate repricer tool](https://github.com/esgi-immo-scanner/.github/wiki)
