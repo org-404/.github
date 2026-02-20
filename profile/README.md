@@ -1,3 +1,17 @@
-## Org 404 project index
+## Org 404 — Project Index
 
-👩‍💻 [Immo Scanner, The Real-estate repricer tool](https://github.com/esgi-immo-scanner/.github/wiki)
+Welcome to **Org 404**, home of the ESGI Immo Scanner project — a real-estate repricing tool built by students.
+
+### 🏠 Projects
+
+| Project | Description | Links |
+|---------|-------------|-------|
+| **Immo Scanner** | Real-estate repricer tool | [📖 Wiki](https://github.com/esgi-immo-scanner/.github/wiki) |
+
+### 📐 Architecture
+
+The microservice architecture diagram is available [here](https://github.com/org-404/.github/blob/main/microservice-archi.drawio).
+
+### 📋 Resources
+
+- 👩‍💻 [Immo Scanner Wiki](https://github.com/esgi-immo-scanner/.github/wiki)
